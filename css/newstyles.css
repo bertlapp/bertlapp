@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #FEEEBD;
+}
+h1{
+	font-size: 35px;
+	line-height: 37px;
+}
+h2{
+	font-size: 29px;
+	line-height: 32px;
+}
+.carousel-caption{
+	padding: 6px;
+}
+
+.carousel-caption h4{
+	margin: 0 5px;
+}
