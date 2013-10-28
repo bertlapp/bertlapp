@@ -25,19 +25,19 @@
 	<div id="myCarousel" class="carousel slide">
 		<div class="carousel-inner">
 	    	<div class="item active">
-	        	<img src="img/vbox_weich.jpg" alt="">
+	        	<img src="carousel_img/vbox_weich.jpg" alt="">
 	            <div class="carousel-caption">
 	            	<h4>VirtualBox</h4>
 	          	</div>
 	        </div>
 	        <div class="item">
-	        	<img src="img/ecl_weich.jpg" alt="">
+	        	<img src="carousel_img/ecl_weich.jpg" alt="">
 	            <div class="carousel-caption">
 	            	<h4>IDE Eclipse</h4>     
 	            </div>
 	        </div>
 	        <div class="item">
-	        	<img src="img/git_gui_weich.jpg" alt="">
+	        	<img src="carousel_img/git_gui_weich.jpg" alt="">
 	            <div class="carousel-caption">
 	            	<h4>Versionsverwaltung mit Git</h4> 
 	            </div>
